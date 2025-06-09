@@ -1,5 +1,5 @@
 
-# 🤖 AsmartWebi by Baris 🌐  
+# 🤖 AsmartWebi by Baris 🌐  smart web ai 
 *Multilingual Smart Website Assistant – powered by AI, built by a 13-year-old developer*
 
 ---
